@@ -1,0 +1,7 @@
+day,event,temperature,windspeed
+1,Sunny,80,10
+2,Cloudy,70,15
+3,Rainy,60,20
+4,Thunderstorm,50,30
+5,Snowy,40,35
+6,Hazy,75,25
